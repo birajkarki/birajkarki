@@ -22,6 +22,7 @@ Database:
 
 Contact
 birajkarki.github.com
+biraj-karki linkedin
 @birajkarki on Twitter
 @birazkarke on Instagram
 birajkarki#2936 on Discord
