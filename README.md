@@ -1,16 +1,27 @@
-### Hi there 👋
+Glad to see you here 🙂
 
-<!--
-**birajkarki/birajkarki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey! 👋
 
-Here are some ideas to get you started:
+About Me ⚡
+I am a highschool student from Nepal currently in early phase of my developer journey. I love to explore the tech world, learn new things, and teach others the things that I have learned. I am very intrested in topics like Web development, technical writing, DevOps, and communtiy. Also, I am currently Intern at Cybertron Nepal and Executive member at TECHsetu, a non-profit organization led by the students to bridge the gap between IT students and IT field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Skills
+
+Languages and Libraries:
+👨‍💻 Python , HTML ,CSS , JavaScript , C , Flutter
+
+Tools:
+⚙️ GitHub , Linux , Netlify, Linode , Heroku , Visual Studio code
+
+Frameworks:
+👁️ Django , React , Bootstrap4
+
+Database:
+💽 MySQL, SQL, Mongo
+
+Contact
+birajkarki.github.com
+@birajkarki on Twitter
+@birazkarke on Instagram
+birajkarki#2936 on Discord
