@@ -1,5 +1,8 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Biraj Karki</h1>
 <h3 align="center">I am a highschool student from Nepal currently in early phase of my developer journey. I love to explore the tech world, learn new things, and teach others the things that I have learned. I am very intrested in topics like Web development, technical writing, DevOps, and communtiy. Also, I am currently Intern at Cybertron Nepal and Executive member at TECHsetu, a non-profit organization led by the students to bridge the gap between IT students and IT field.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=birajkarki&label=Profile%20views&color=0e75b6&style=flat" alt="birajkarki" /> </p>
 
