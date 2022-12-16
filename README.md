@@ -9,7 +9,7 @@ I am a highschool student from Nepal currently in early phase of my developer jo
 * 🌍  I'm based in Nepal
 * 🖥️  See my portfolio at [birajkarki.github.io](http://birajkarki.github.io)
 * ✉️  You can contact me at [birajkarki9849@gmail.com](mailto:birajkarki9849@gmail.com)
-* 🧠  I'm learning Next.js , TailwindCSS , Node.js , Express.js, React.js
+* 🧠  I'm learning Next.js , TailwindCSS , Ruby , Node.js , Express.js, React.js
 * 🤝  I'm open to collaborating on Startup ideas , OpenSource project , Blockchain Technology
 * ⚡  I am funny ~!
 
