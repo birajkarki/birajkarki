@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Biraj Karki
 ===================================================================================================================================
 
-Web Developer and ML/AI Dev
+Web Developer & ML/AI Dev and SEO Expert
 ---------------------------
 
 As a full-stack developer with a passion for building scalable and innovative web applications, I specialize in the MERN stack and Ruby on Rails. I have a strong foundation in coding and web design, and am always looking to learn new technologies and techniques. On my GitHub profile, you'll find some of my personal projects and contributions to open source projects. In addition to my technical skills, I am also interested in startups and building SaaS products. I love to explore the tech world, learn new things, and teach others what I have learned. Feel free to reach out and connect with me!
