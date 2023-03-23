@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer & ML/AI Dev and SEO Expert
 ---------------------------
 
-As a full-stack developer with a passion for building scalable and innovative web applications, I specialize in the MERN stack and Ruby on Rails. I have a strong foundation in coding and web design, and am always looking to learn new technologies and techniques. On my GitHub profile, you'll find some of my personal projects and contributions to open source projects. In addition to my technical skills, I am also interested in startups and building SaaS products. I love to explore the tech world, learn new things, and teach others what I have learned. Feel free to reach out and connect with me!
+As a full-stack developer with a passion for building scalable and innovative web applications, I specialize in the MERN stack and Ruby on Rails. I have a strong foundation in coding and web design, and am always looking to learn new technologies and techniques. On my GitHub profile, you'll find some of my personal projects and contributions to open source projects. In addition to my technical skills, I am also interested in startups and building SaaS products. I love to explore the tech world, learn new things, and teach others what I have learned. Feel free to reach out and connect with me!!
 
 * 🌍  I'm based in Nepal
 * 🖥️  See my portfolio at [birajkarki.github.io](http://birajkarki.github.io)
