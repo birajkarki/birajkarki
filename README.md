@@ -40,6 +40,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=birajkarki&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=birajkarki&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br>
+  <img alt="snake eating my contribution" src="https://github.com/birajkarki/birajkarki/blob/output/github-contribution-grid-snake.svg">
+  <br>
+  <br>
+  <br>
+</div>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
