@@ -9,7 +9,7 @@
 
 <br>
 
-  Hi, I'm Biraj Karki, Web & App Developer/Coder ,  Learner 👨‍💻 & Chess player 🦸‍♂️ from Nepal
+  👋, I'm Biraj Karki, Web & App Developer/Coder , Learner 👨‍💻 & Chess player 🦸‍♂️ from Nepal 
   <br>
   🖥️  See my portfolio at [birajkarki.github.io](http://birajkarki.github.io)
   <br>
