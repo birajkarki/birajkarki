@@ -8,8 +8,8 @@
 
 
 <br>
-<p align="center">
-  Hi, I'm Biraj Karki, Web & App Developer/Coder 🥷,  Learner 👨‍💻 &  🦸‍♂️ from Nepal
+
+  Hi, I'm Biraj Karki, Web & App Developer/Coder ,  Learner 👨‍💻 & Chess player 🦸‍♂️ from Nepal
   <br>
   🖥️  See my portfolio at [birajkarki.github.io](http://birajkarki.github.io)
   <br>
@@ -21,17 +21,17 @@
   <br>
   ✉️  You can contact me at [birajkarki9849@gmail.com](mailto:birajkarki9849@gmail.com)
   <br>
-</p>
+
 
 
 ## 🌐 Socials:
-<div align="center"> 
+
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thelifeofbiraj)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/biraj-karki) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/thelifeofbiraj) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/thelifeofbiraj) 
  
-</div>
+
 
 
 
