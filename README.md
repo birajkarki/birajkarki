@@ -33,12 +33,6 @@
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/biraj-karki) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/thelifeofbiraj) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/thelifeofbiraj) 
- 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=birajkarki&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=birajkarki&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=birajkarki&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>
@@ -48,6 +42,13 @@
   <br>
   <br>
 </div>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=birajkarki&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=birajkarki&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=birajkarki&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
