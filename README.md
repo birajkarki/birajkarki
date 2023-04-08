@@ -13,7 +13,7 @@
   <br>
   🖥️  See my portfolio at [birajkarki.github.io](http://birajkarki.github.io)
   <br>
-  🧠 I love to learn new technologies and frameworks & Currently learning and working Nextjs , Nestjs and DevOps.
+  🧠 I’m learning Next.js , Nest.js , GraphQL, React Native.
   <br>
   🤝  I'm open to collaborating on Startup ideas , OpenSource project.
   <br>
@@ -21,7 +21,8 @@
   <br>
   ✉️  You can contact me at [birajkarki9849@gmail.com](mailto:birajkarki9849@gmail.com)
   <br>
-
+  ⚡ I love to play chess and read books.
+  <br>
 
 
 ## 🌐 Socials:
@@ -45,12 +46,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/birajkarki"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-[![](https://visitcount.itsvg.in/api?id=birajkarki&icon=8&color=0)](https://visitcount.itsvg.in)
-
- 
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/thelifeofbiraj) 
 
   <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
