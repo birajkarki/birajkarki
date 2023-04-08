@@ -13,11 +13,11 @@
   <br>
   🖥️  See my portfolio at [birajkarki.github.io](http://birajkarki.github.io)
   <br>
-  🧠 I love to learn new technologies and frameworks.
+  🧠 I love to learn new technologies and frameworks & Currently learning and working Nextjs , Nestjs and DevOps.
   <br>
   🤝  I'm open to collaborating on Startup ideas , OpenSource project.
   <br>
-  🧑‍💼 I’m currently working as MERN stack developer and SEO Expert at Velox Labs</a>
+  🧑‍💼 I’m currently working as Web developer and SEO Expert at Velox Labs</a>
   <br>
   ✉️  You can contact me at [birajkarki9849@gmail.com](mailto:birajkarki9849@gmail.com)
   <br>
