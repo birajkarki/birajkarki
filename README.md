@@ -9,7 +9,7 @@
 
 👋, I'm Biraj Karki, a Web & App 💻📱 Developer/Coder, 🎓 Learner, Chess player 🦸‍♂️, and 🐙 Open Source Advocate from Nepal 🇳🇵.
 
-🖥️ See my portfolio at birajkarki.github.io.
+🖥️ See my portfolio at [birajkarki.github.io] (http://birajkarki.github.io)
 
 🧠 I’m currently learning Next.js, Nest.js, GraphQL, and React Native.
 
