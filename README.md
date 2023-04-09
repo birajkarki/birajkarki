@@ -8,8 +8,7 @@
 
 
 <br>
-
-  👋, I'm Biraj Karki, a Web & App Developer/Coder, Learner 👨‍💻, Chess player 🦸‍♂️, and Open Source Advocate 🐙 from Nepal.
+  👋, I'm Biraj Karki, a Web & App 💻📱 Developer/Coder, 🎓 Learner, Chess player 🦸‍♂️, and 🐙 Open Source Advocate from Nepal 🇳🇵 . 
   <br>
   🖥️  See my portfolio at [birajkarki.github.io](http://birajkarki.github.io)
   <br>
@@ -73,4 +72,5 @@
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
+  // I have a passion for developing user-friendly and efficient web and mobile applications. In my free time, I enjoy playing chess and contributing to open source projects.
 
