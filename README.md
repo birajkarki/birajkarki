@@ -10,7 +10,7 @@
 <br>
   👋, I'm Biraj Karki, a Web & App 💻📱 Developer/Coder, 🎓 Learner, Chess player 🦸‍♂️, and 🐙 Open Source Advocate from Nepal 🇳🇵 . 
   <br>
-  🖥️  See my portfolio at [birajkarki.github.io](http://birajkarki.github.io)
+  🖥️  See my portfolio at [birajkarki.github.io] (http://birajkarki.github.io)
   <br>
   🧠 I’m currently learning Next.js , Nest.js , GraphQL, React Native.
   <br>
@@ -18,7 +18,7 @@
   <br>
   🧑‍💼 I’m currently working as Web developer and SEO Expert at Velox Labs.
   <br>
-  ✉️  You can contact me at [birajkarki9849@gmail.com](mailto:birajkarki9849@gmail.com).
+  ✉️  You can contact me at [birajkarki9849@gmail.com] (mailto:birajkarki9849@gmail.com).
   <br>
   ⚡ I love to play chess and read books.
   <br>
