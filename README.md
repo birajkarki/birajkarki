@@ -17,7 +17,7 @@
 
 🧑‍💼 I’m currently working as a Web developer and SEO Expert at Velox Labs.
 
-✉️ You can contact me at birajkarki9849@gmail.com.
+✉️ You can contact me at birajkarki9849@gmail.com
 
 ⚡ I love to play chess and read books.
 
