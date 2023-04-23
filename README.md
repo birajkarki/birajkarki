@@ -48,6 +48,7 @@
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Comparing Leadership Styles: Transformational, Servant, Autocratic, Democratic, and Laissez-Faire](https://birajkarki.hashnode.dev//comparing-leadership-styles-transformational-servant-autocratic-democratic-and-laissez-faire)
 - [Decoding SSL, TLS, and HTTPS: A Comprehensive Explanation](https://birajkarki.hashnode.dev//decoding-ssl-tls-and-https)
 - [Code Better, Learn Forever: A Guide to Continuous Improvement](https://birajkarki.hashnode.dev//code-better-learn-forever-a-guide-to-continuous-improvement)
 - [React Redux Tutorial For Beginners](https://birajkarki.hashnode.dev//react-redux-tutorial-for-beginners)
