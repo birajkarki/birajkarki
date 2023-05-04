@@ -48,6 +48,7 @@
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [11  Key Data Structures We Use Every Day](https://birajkarki.hashnode.dev//11-key-data-structures-we-use-every-day)
 - [Comparing Leadership Styles: Transformational, Servant, Autocratic, Democratic, and Laissez-Faire](https://birajkarki.hashnode.dev//comparing-leadership-styles-transformational-servant-autocratic-democratic-and-laissez-faire)
 - [Decoding SSL, TLS, and HTTPS: A Comprehensive Explanation](https://birajkarki.hashnode.dev//decoding-ssl-tls-and-https)
 - [Code Better, Learn Forever: A Guide to Continuous Improvement](https://birajkarki.hashnode.dev//code-better-learn-forever-a-guide-to-continuous-improvement)
@@ -57,7 +58,6 @@
 - [Client Side Rendering vs SSR with React Query: Choosing the Best Approach for Your App](https://birajkarki.hashnode.dev//client-side-rendering-vs-ssr-with-react-query)
 - [22 programming lessons learned in 2022:](https://birajkarki.hashnode.dev//22-programming-lessons-learned-in-2022)
 - [How I Started A Tech Student Club In My HighSchool](https://birajkarki.hashnode.dev//how-i-started-a-tech-student-club-in-my-highschool)
-- [How to code a SaaS Startup](https://birajkarki.hashnode.dev//how-to-code-a-saas-startup)
 <!-- HASHNODE_BLOG:END -->
 
 ### ✍️ Random Dev Quote
