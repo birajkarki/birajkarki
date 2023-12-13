@@ -15,7 +15,7 @@
 
 🤝 I'm open to collaborating on Startup ideas, OpenSource projects.
 
-🧑‍💼 I’m currently working as a Web developer and SEO Expert at Velox Labs.
+🧑‍💼 I’m currently working as a Frontend Engineer at Velox Labs.
 
 ✉️ You can contact me at birajkarki9849@gmail.com
 
