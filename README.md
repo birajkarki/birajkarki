@@ -7,11 +7,11 @@
 </h1>
 
 
-👋, I'm Biraj Karki, a Web & App 💻📱 Developer/Coder, 🎓 Learner, Chess player 🦸‍♂️, and 🐙 Open Source Advocate from Nepal 🇳🇵.
+👋, I'm Biraj Karki, a Web & App 💻📱 Developer/Engineer, 🎓 Learner, Chess player 🦸‍♂️, and 🐙 Open Source Advocate from Nepal 🇳🇵.
 
 🖥️ See my portfolio at [birajkarki.github.io](http://birajkarki.github.io)
 
-🧠 I’m currently learning Next.js, Nest.js, GraphQL, and React Native.
+🧠 I’m currently learning JAVA and DSA , Nest.js,Deep learning and React Native.
 
 🤝 I'm open to collaborating on Startup ideas, OpenSource projects.
 
