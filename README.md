@@ -1,3 +1,4 @@
+[![committers.top badge](https://user-badge.committers.top/nepal/birajkarki.svg)](https://user-badge.committers.top/nepal/birajkarki)
 [![](https://visitcount.itsvg.in/api?id=birajkarki&icon=8&color=0)](https://visitcount.itsvg.in)
 
 <h1 align="center">
