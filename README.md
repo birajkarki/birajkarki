@@ -1,5 +1,4 @@
-[![committers.top badge](https://user-badge.committers.top/nepal/birajkarki.svg)](https://user-badge.committers.top/nepal/birajkarki)
-<br/>
+
 [![](https://visitcount.itsvg.in/api?id=birajkarki&icon=8&color=0)](https://visitcount.itsvg.in)
 
 <h1 align="center">
@@ -13,11 +12,11 @@
 
 🖥️ See my portfolio at [birajkarki.github.io](http://birajkarki.github.io)
 
-🧠 I’m currently learning JAVA and DSA , Nest.js,Deep learning and React Native.
+🧠 I’m currently learning Rust, Quantum Computing and AI.
 
 🤝 I'm open to collaborating on Startup ideas, OpenSource projects.
 
-🧑‍💼 I’m currently working as a Frontend Engineer at Velox Labs.
+🧑‍💼 I’m currently working as a FullStack Engineer at Velox Labs.
 
 ✉️ You can contact me at birajkarki9849@gmail.com
 
