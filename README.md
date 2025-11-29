@@ -16,8 +16,6 @@
 
 🤝 I'm open to collaborating on Startup ideas, OpenSource projects.
 
-🧑‍💼 I’m currently working as a FullStack Engineer at Velox Labs.
-
 ✉️ You can contact me at birajkarki9849@gmail.com
 
 ⚡ I love to play chess and read books.
